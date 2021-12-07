@@ -1,6 +1,6 @@
 # Run the application
 ### 1. Clone
-git clone https://github.gatech.edu/ChocolateAlmondMilk/M2.git
+git clone https://github.com/HaojunYuan/Protect-The-Cheese.git
 ### 2. Open the project with gradle in intellij
 ### 3. Go to gradle config click "run" under application task
 
@@ -11,7 +11,7 @@ git clone https://github.gatech.edu/ChocolateAlmondMilk/M2.git
 4. Go to gradle config click "run" under application task
 
 # Test Deliverable (tests->controller->M6Tests)
-Our M6 design for Boss is that the boss cannot be defeated by the player. The player will feel sad and disappointed, however, when the boss reaches the monument, the boss regrets what he had done, and decided to be a good monster, and decided not to attack the monument. We want to surprise the player so that they enjoy the happiness.
+The game design for Boss is that the boss cannot be defeated by the player. The player will feel sad and disappointed, however, when the boss reaches the monument, the boss regrets what he had done, and decided to be a good monster, and decided not to attack the monument. We want to surprise the player so that they enjoy the happiness.
 
 For M6Tests, we did the following tests:
 
