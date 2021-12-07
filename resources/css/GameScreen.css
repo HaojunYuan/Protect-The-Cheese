@@ -1,0 +1,25 @@
+.game-screen-info-bar {
+    -fx-margin: 10px;
+    -fx-border: 10px;
+    -fx-padding: 10px;
+    -fx-alignment: center;
+    -fx-border-color: blue;
+}
+
+.game-screen-game-board-box {
+    -fx-border-color: green;
+}
+
+.game-screen-left-box {
+    -fx-padding: 20px;
+    -fx-alignment: center;
+    -fx-border-color: red;
+}
+
+.game-screen-right-box {
+    -fx-border-color: black;
+}
+
+.game-screen-tower-menu {
+    -fx-spacing: 20;
+}

@@ -1,0 +1,15 @@
+.welcome-message-text {
+    -fx-font: 20px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 25%, red 75%);
+    -fx-stroke: blue;
+    -fx-stroke-width: 1;
+}
+
+.welcome-start-button {
+    -fx-border-width: 1px;
+    -fx-padding: 10px 50px 10px 50px;
+}
+
+.welcome-box {
+    -fx-spacing: 100
+}

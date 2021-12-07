@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="controller.M6Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-25T23:02:50" hostname="Brian's Macbook Pro" time="24.548">
+  <properties/>
+  <testcase name="testGoToGameScreenWithLevelMediumAndShouldHaveTowerCostForTheLevel" classname="controller.M6Tests" time="24.548"/>
+  <system-out><![CDATA[monsters attack thread: 29
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

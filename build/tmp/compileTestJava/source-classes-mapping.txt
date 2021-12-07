@@ -1,0 +1,14 @@
+common/MapGeneratorTest.java
+ common.MapGeneratorTest
+common/PathGeneratorTest.java
+ common.PathGeneratorTest
+controller/GameControllerTestM3.java
+ controller.GameControllerTestM3
+controller/GameControllerTest.java
+ controller.GameControllerTest
+controller/M5Tests.java
+ controller.M5Tests
+controller/GameControllerTestM4.java
+ controller.GameControllerTestM4
+controller/M6Tests.java
+ controller.M6Tests

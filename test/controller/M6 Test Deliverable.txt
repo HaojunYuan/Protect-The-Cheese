@@ -1,0 +1,13 @@
+M6 Test Deliverable
+Our M6 design for Boss is that the boss cannot be defeated by the player. The player will feel sad and disappointed, however, when the boss reaches the monument, the boss regrets what he had done, and decided to be a good monster, and decided not to attack the monument. We want to surprise the player so that they enjoy the happiness.
+
+For M6Tests, we did the following tests:
+
+Confirm that different difficulty levels should have different money and health
+Confirm that different towers should have different costs
+Confirm that player can upgrade the tower by clicking on the bought tower to upgrade it
+Confirm that if monument health<0 then lose screen should appear
+Confirm that if the final boss reaches the monument, the player just wins the game
+Lose screen and win screen should have different statistics
+Confirm that if a monster gets defeated, the money should increase
+Confirm that if the monument is attacked, the monument's health should decrease.
